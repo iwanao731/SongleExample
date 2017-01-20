@@ -16,3 +16,4 @@ Songle Widget API : https://widget.songle.jp/docs/v1
 
 ## Dependensies
 ofxJSON : https://github.com/jefftimesten/ofxJSON
+ofxTimecode : https://github.com/YCAMInterlab/ofxTimecode
